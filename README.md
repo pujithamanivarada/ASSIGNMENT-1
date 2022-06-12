@@ -7,3 +7,4 @@
 4.NumPy introduces a simple file format for ndarray objects. This . npy file stores data, shape, dtype and other information required to reconstruct the ndarray in a disk file such that the array is correctly retrieved even if the file is on another machine with different architecture.
 
 5.The empty() function is used to create a new array of given shape and type, without initializing entries. Shape of the empty array, e.g., (2, 3) or 2. Desired output data-type for the array, e.g, numpy. int8.
+.
